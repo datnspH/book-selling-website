@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner {
+    background-image: url("./assets/background.png");
+}
+
+.luffy {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    position: relative;
+    animation-name: example;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    filter: drop-shadow(3px 5px 5px rgba(255, 255, 255, 0.4));
+}
+
+@keyframes example {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+
+    25% {
+        left: 0px;
+        top: 10px;
+    }
+
+    50% {
+        left: 0px;
+        top: 0px;
+    }
+
+    75% {
+        left: 0px;
+        top: 10px;
+    }
+
+    100% {
+        left: 0px;
+        top: 0px;
+    }
+}

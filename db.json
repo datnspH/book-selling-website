@@ -1,0 +1,327 @@
+{
+  "products": [
+    {
+      "name": "One Piece - Tập 99: “Luffy Mũ Rơm” (Bản Bìa Cứng) - Limited Edition - Tặng Kèm Postcard PVC Luffy",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244874983_1_1.jpg",
+      "price": "142.500",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Cứng",
+      "quantity": "6",
+      "title": "bánh làm từ trái cây ",
+      "rate": 5,
+      "id": "57",
+      "desc": "a"
+    },
+    {
+      "name": "One Piece - Tập 100: “Haki Bá Vương” (Bản Bìa Cứng) - Limited Edition - Tặng Kèm Postcard PVC Luffy",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244876413_2.jpg",
+      "price": "142.500",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Cứng",
+      "quantity": 5,
+      "rate": 4.5,
+      "title": "bánh làm từ trái cây ",
+      "id": "58"
+    },
+    {
+      "name": "One Piece Tập 101: “Siêu Sao Thượng Đài” - Bản Bìa Cứng - Limited Edition - Tặng Kèm Postcard PVC",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244876444_1.jpg",
+      "price": "150.000",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Cứng",
+      "quantity": 11,
+      "rate": 4.5,
+      "title": "bánh làm từ trái cây ",
+      "id": "59"
+    },
+    {
+      "name": "One Piece - Tập 99: “Luffy Mũ Rơm” (Bản Bìa Áo)",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/o/n/one-piece---tap-99---ban-bia-gap_3.jpg",
+      "price": "23.000",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Mềm",
+      "quantity": 5,
+      "rate": 4,
+      "title": "bánh làm từ trái cây ",
+      "id": "60"
+    },
+    {
+      "name": "One Piece Tập 91: Chuyến Phiêu Lưu Trên Xứ Sở Samurai (Tái Bản 2022)",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244865998_1_.jpg",
+      "price": "24.000",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Mềm",
+      "quantity": 2,
+      "rate": 4.5,
+      "title": "bánh làm từ trái cây ",
+      "id": "61"
+    },
+    {
+      "name": "One Piece Tập 96: “Oden Sinh Ra Là Để Nấu Sôi” (Tái Bản 2022)",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244866049.jpg",
+      "price": "26.400",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Mềm",
+      "quantity": 57,
+      "rate": 4.5,
+      "id": "62"
+    },
+    {
+      "name": "One Piece - Tập 68: Liên Minh Hải Tặc (Tái Bản 2022)",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244865769.jpg",
+      "price": "24.000",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Mềm",
+      "quantity": 57,
+      "rate": 4.5,
+      "title": "bánh làm từ trái cây ",
+      "id": "63"
+    },
+    {
+      "name": "One Piece - Tập 81: Cùng Đến Thăm Ngài Nekomamushi (Tái Bản 2023)",
+      "img": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_186906_1.jpg",
+      "price": "28.400",
+      "supplier": "Nhà Xuất Bản Kim Đồng",
+      "author": "Eiichiro Oda",
+      "publishing": "Kim Đồng",
+      "form": "Bìa Mềm",
+      "quantity": 57,
+      "rate": 4,
+      "title": "bánh làm từ trái cây ",
+      "id": "64"
+    }
+  ],
+  "users": [
+    {
+      "email": "dat@gmail.com",
+      "password": "$2a$10$h84/EkxO5gYvRosvXDtJweosCSfsEDIp9eBLLSXODVkvotlildsMW",
+      "name": "dat",
+      "role": "admin",
+      "id": 1,
+      "avatar": "https://img5.thuthuatphanmem.vn/uploads/2021/12/08/aaaaaaaa_093625302.jpg"
+    },
+    {
+      "email": "dat11@gmail.com",
+      "password": "$2a$10$VOU4hjYeiPi8UdjE.i1AkeeIpjWHxFBCZPuA2jzcbM2DLyBxD4AhS",
+      "name": "dattt",
+      "role": "member",
+      "id": 2,
+      "avatar": "https://antimatter.vn/wp-content/uploads/2022/04/buon-anh-meo-khoc-cute.jpg"
+    },
+    {
+      "email": "quynhntd3010@gmail.com",
+      "password": "$2a$10$b4Tm3YkckRphYZpi5CnkPeMveH5GoC1viatK8kVEcxxUJo6gXWCzu",
+      "name": "quynh",
+      "id": 3,
+      "avatar": "https://haycafe.vn/wp-content/uploads/2022/01/Anh-Meme-Meo-FF-cam-Sung-ngan-ngau-loi-605x600.jpg"
+    },
+    {
+      "email": "quynhntd12345@gmail.com",
+      "password": "$2a$10$6Rc6j5c4CroKSueG1cFNAOGq1WUHTGhmvSLr7sApaffpZyfqpmqnK",
+      "name": "quynh12345",
+      "id": 4,
+      "avatar": "https://haycafe.vn/wp-content/uploads/2022/01/Anh-Meme-Meo-FF-cam-Sung-ngan-ngau-loi-605x600.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "name": "One Piece Tập 101: “Siêu Sao Thượng Đài” - Bản Bìa Cứng - Limited Edition - Tặng Kèm Postcard PVC",
+        "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244876444_1.jpg",
+        "price": "150.000",
+        "supplier": "Nhà Xuất Bản Kim Đồng",
+        "author": "Eiichiro Oda",
+        "publishing": "Kim Đồng",
+        "form": "Bìa Cứng",
+        "quantity": 11,
+        "rate": 4.5,
+        "title": "bánh làm từ trái cây ",
+        "id": "59"
+      },
+      "quantity": 1,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "product": {
+        "name": "One Piece - Tập 68: Liên Minh Hải Tặc (Tái Bản 2022)",
+        "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244865769.jpg",
+        "price": "24.000",
+        "supplier": "Nhà Xuất Bản Kim Đồng",
+        "author": "Eiichiro Oda",
+        "publishing": "Kim Đồng",
+        "form": "Bìa Mềm",
+        "quantity": 57,
+        "rate": 4.5,
+        "title": "bánh làm từ trái cây ",
+        "id": "63"
+      },
+      "quantity": 1,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "product": {
+        "name": "One Piece - Tập 99: “Luffy Mũ Rơm” (Bản Bìa Áo)",
+        "img": "https://cdn0.fahasa.com/media/catalog/product/o/n/one-piece---tap-99---ban-bia-gap_3.jpg",
+        "price": "23.000",
+        "supplier": "Nhà Xuất Bản Kim Đồng",
+        "author": "Eiichiro Oda",
+        "publishing": "Kim Đồng",
+        "form": "Bìa Mềm",
+        "quantity": 5,
+        "rate": 4,
+        "title": "bánh làm từ trái cây ",
+        "id": "60"
+      },
+      "quantity": 5,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "product": {
+        "name": "One Piece - Tập 100: “Haki Bá Vương” (Bản Bìa Cứng) - Limited Edition - Tặng Kèm Postcard PVC Luffy",
+        "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244876413_2.jpg",
+        "price": "142.500",
+        "supplier": "Nhà Xuất Bản Kim Đồng",
+        "author": "Eiichiro Oda",
+        "publishing": "Kim Đồng",
+        "form": "Bìa Cứng",
+        "quantity": 5,
+        "rate": 4.5,
+        "title": "bánh làm từ trái cây ",
+        "id": "58"
+      },
+      "quantity": 1,
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "product": {
+        "name": "One Piece - Tập 100: “Haki Bá Vương” (Bản Bìa Cứng) - Limited Edition - Tặng Kèm Postcard PVC Luffy",
+        "img": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244876413_2.jpg",
+        "price": "142.500",
+        "supplier": "Nhà Xuất Bản Kim Đồng",
+        "author": "Eiichiro Oda",
+        "publishing": "Kim Đồng",
+        "form": "Bìa Cứng",
+        "quantity": 5,
+        "rate": 4.5,
+        "title": "bánh làm từ trái cây ",
+        "id": "58"
+      },
+      "quantity": 1,
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "product": {
+        "meassge": "Successfully",
+        "data": {
+          "avatar": {
+            "base_url": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244865769.jpg"
+          },
+          "_id": "65143c56a41ae92706fc1e5b",
+          "name": "One Piece - Tập 68: Liên Minh Hải Tặc (Tái Bản 2022)",
+          "price": 24000,
+          "quantity": 7,
+          "original_price": 22000,
+          "description": "Liên Minh Hải Tặc",
+          "author": "Eiichiro Oda",
+          "publishing": "Kim Đồng",
+          "supplier": "Nhà Xuất Bản Kim Đồng",
+          "images": [
+            {
+              "base_url": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244865769.jpg"
+            }
+          ],
+          "categoryId": "6514383da41ae92706fc1e56",
+          "createdAt": "2023-09-27T14:29:42.529Z",
+          "updatedAt": "2023-09-27T14:29:42.529Z",
+          "slug": "one-piece-tap-68:-lien-minh-hai-tac-(tai-ban-2022)-s23_tPl1K",
+          "__v": 0
+        }
+      },
+      "quantity": 11,
+      "id": 7
+    },
+    {
+      "product": {
+        "meassge": "Successfully",
+        "data": {
+          "avatar": {
+            "base_url": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244874983_1_1.jpg"
+          },
+          "_id": "65143d59a41ae92706fc1e5f",
+          "name": "One Piece - Tập 99: “Luffy Mũ Rơm” (Bản Bìa Cứng) - Limited Edition - Tặng Kèm Postcard PVC Luffy",
+          "price": 142000,
+          "quantity": 6,
+          "original_price": 140000,
+          "description": "Luffy Mũ Rơm (Bản Bìa Cứng)",
+          "author": "Eiichiro Oda",
+          "publishing": "Kim Đồng",
+          "supplier": "Nhà Xuất Bản Kim Đồng",
+          "images": [
+            {
+              "base_url": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244874983_1_1.jpg"
+            }
+          ],
+          "categoryId": "6514383da41ae92706fc1e56",
+          "createdAt": "2023-09-27T14:34:01.384Z",
+          "updatedAt": "2023-09-27T14:34:01.384Z",
+          "slug": "one-piece-tap-99:-\"luffy-mu-rom\"-(ban-bia-cung)-limited-edition-tang-kem-postcard-pvc-luffy-yXrHdm0kq",
+          "__v": 0,
+          "rate": 4.5
+        }
+      },
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "product": {
+        "meassge": "Successfully",
+        "data": {
+          "avatar": {
+            "base_url": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_186906_1.jpg"
+          },
+          "_id": "65143ca1a41ae92706fc1e5d",
+          "name": "One Piece - Tập 81: Cùng Đến Thăm Ngài Nekomamushi (Tái Bản 2023)",
+          "price": 28000,
+          "quantity": 5,
+          "original_price": 26000,
+          "description": "Cùng Đến Thăm Ngài Nekomamushi",
+          "author": "Eiichiro Oda",
+          "publishing": "Kim Đồng",
+          "supplier": "Nhà Xuất Bản Kim Đồng",
+          "images": [
+            {
+              "base_url": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_186906_1.jpg"
+            }
+          ],
+          "categoryId": "6514383da41ae92706fc1e56",
+          "createdAt": "2023-09-27T14:30:57.367Z",
+          "updatedAt": "2023-09-27T14:30:57.367Z",
+          "slug": "oone-piece-tap-81:-cung-djen-tham-ngai-nekomamushi-(tai-ban-2023)-Q0K4bSM6m",
+          "__v": 0,
+          "rate": 5
+        }
+      },
+      "quantity": 1,
+      "id": 9
+    }
+  ]
+}
